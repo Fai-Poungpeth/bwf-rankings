@@ -5,4 +5,4 @@ The following ShinyApp is a project I worked on to create an interactive platfor
 The data used for this project came from a Kaggle dataset, linked here: https://www.kaggle.com/datasets/valentindefour/badminton-world-rankings-updated-august-2020. The actual database can also be found in this repo.
 
 ### Live Link
-The link to the live website can be found here: [https://k4x6kv-fai-poungpeth.shinyapps.io/final-project/ ]([url](https://k4x6kv-fai-poungpeth.shinyapps.io/final-project/)).
+The link to the live website can be found here: https://k4x6kv-fai-poungpeth.shinyapps.io/final-project/.
